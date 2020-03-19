@@ -1,0 +1,8 @@
+{
+  "bundles":[
+     "com.google.code.gson:gson:2.8.1",
+     "io.jsonwebtoken:jjwt-gson:${v}",
+     "io.jsonwebtoken:jjwt-impl:${v}",
+     "io.jsonwebtoken:jjwt-api:${v}"
+  ]
+}
